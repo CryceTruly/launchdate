@@ -1,5 +1,5 @@
 let countdown=document.querySelector('.countdown');
-const lauchdate=new Date('Aug 24, 2018 13:00:00').getTime();
+const lauchdate=new Date('Aug 24, 2020 13:00:00').getTime();
 var intvl=setInterval(()=>{
 //get today
 
